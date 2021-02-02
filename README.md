@@ -32,7 +32,7 @@ yarn add prop-types
   ],
   ```
 
-Add both [.prettierrc]() and [.eslintrc.json]() to root of Project
+Add both [.prettierrc](https://github.com/chichke/eslint_install/blob/main/.prettierrc) and [.eslintrc.json](https://github.com/chichke/eslint_install/blob/main/.eslintrc.json) to root of Project
 
 # Useful resources
 
