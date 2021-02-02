@@ -37,4 +37,5 @@ Add both [.prettierrc](https://github.com/chichke/eslint_install/blob/main/.pret
 # Useful resources
 
 https://eslint.org/docs/user-guide/getting-started
+
 https://github.com/typicode/husky#husky
